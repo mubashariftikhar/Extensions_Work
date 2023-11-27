@@ -1,0 +1,11 @@
+{
+  "name": "Mohid",
+  "version": "0.0.2",
+  "manifest_version": 3,
+  "description": "Best Extension",
+  "author": "Khan",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Extension"
+  }
+}
