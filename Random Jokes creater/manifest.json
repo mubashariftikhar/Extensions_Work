@@ -1,0 +1,10 @@
+{
+  "name": "Mohid Joke",
+  "description": "Get A new Joke",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
